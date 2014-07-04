@@ -1,0 +1,18 @@
+s = {
+	id = "F1EF5496-2F0D-4F1A-B7C7-D7BA6D801F9C",
+	internalName = "Warmer",
+	title = "Warmer",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = -9,
+			SplitToningHighlightHue = 39,
+			SplitToningHighlightSaturation = 18,
+			SplitToningShadowHue = 38,
+			SplitToningShadowSaturation = 25,
+		},
+		uuid = "E2EA9C20-813A-44D5-BA27-95D2606B04DF",
+	},
+	version = 0,
+}

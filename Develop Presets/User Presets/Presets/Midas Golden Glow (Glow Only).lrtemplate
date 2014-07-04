@@ -1,0 +1,17 @@
+s = {
+	internalName = "Midas Golden Glow (Glow Only)",
+	title = "Midas Golden Glow (Glow Only)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 49,
+			SplitToningHighlightSaturation = 100,
+			SplitToningShadowHue = 45,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "CAD91419-13EF-47BF-B118-840F36A7D700",
+	},
+	version = 0,
+}

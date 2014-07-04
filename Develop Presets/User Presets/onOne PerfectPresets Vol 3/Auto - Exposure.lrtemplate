@@ -1,0 +1,14 @@
+s = {
+	id = "2F383948-723B-4463-B168-77CEBC67F4B0",
+	internalName = "Auto > Exposure",
+	title = "Auto > Exposure",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = 0.95,
+		},
+		uuid = "FBA6F912-139D-4373-94C5-E349FD96F89B",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "D670684E-5E74-4676-A359-4C5BB3C5CB1A",
+	internalName = "Auto > Contrast",
+	title = "Auto > Contrast",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = 50,
+		},
+		uuid = "2E67F7B9-00F3-454D-BAF2-F5F283185C05",
+	},
+	version = 0,
+}

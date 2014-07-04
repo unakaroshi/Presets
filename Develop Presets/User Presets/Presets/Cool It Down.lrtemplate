@@ -1,0 +1,14 @@
+s = {
+	internalName = "Cool It Down",
+	title = "Cool It Down",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5125,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "ED0BB3A2-5BD6-49C2-BA86-B1DE9A7D7668",
+	},
+	version = 0,
+}

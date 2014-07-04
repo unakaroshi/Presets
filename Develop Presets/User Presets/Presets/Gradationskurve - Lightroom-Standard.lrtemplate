@@ -1,0 +1,28 @@
+s = {
+	title = ZSTR "$$$/AgDevelopModule/Templates/ToneCurveLightroomDefault=Tone Curve - Lightroom Default",
+	internalName = "ToneCurveLightroomDefault",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = 25,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0, 0,
+				32, 22,
+				64, 56,
+				128, 128,
+				192, 196,
+				255, 255
+			},
+		},
+		uuid = "674990D8-49DF-11DB-94CF-000A9599D634",
+	},
+	version = 3,
+}

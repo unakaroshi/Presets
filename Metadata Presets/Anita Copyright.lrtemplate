@@ -1,0 +1,12 @@
+s = {
+	id = "B8BE6A10-7E90-46AD-A9DC-E325320CEDF7",
+	internalName = "Anita Copyright",
+	title = "Anita Copyright",
+	type = "Metadata",
+	value = {
+		["com.adobe.copyright"] = "Anita Bindl",
+		["com.adobe.copyrightState"] = true,
+		uuid = "F357ED8A-9496-4FAD-A0F5-6CB03B99F40E",
+	},
+	version = 0,
+}

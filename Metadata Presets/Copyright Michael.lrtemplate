@@ -1,0 +1,12 @@
+s = {
+	id = "D8F1527A-EE5F-4671-B916-51F53D1C3538",
+	internalName = "Copyright Michael",
+	title = "Copyright Michael",
+	type = "Metadata",
+	value = {
+		["com.adobe.copyright"] = "(c) Michael Röhrl",
+		["com.adobe.copyrightState"] = true,
+		uuid = "3D1823CC-A55A-42A3-9CB3-5C00E62B37B4",
+	},
+	version = 0,
+}

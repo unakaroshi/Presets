@@ -1,0 +1,13 @@
+s = {
+	id = "24E39718-81E6-469F-A335-3CDBD306747B",
+	internalName = "Auto > Tone",
+	title = "Auto > Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "As Shot",
+		},
+		uuid = "312D825C-44F2-448B-99B3-D9EF88A0CCD9",
+	},
+	version = 0,
+}

@@ -1,0 +1,25 @@
+s = {
+	internalName = "1.11 - Completely Flat",
+	title = "1.11 - Completely Flat",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "29BCF969-457E-4177-8E04-1614CC9C4809",
+	},
+	version = 0,
+}

@@ -1,0 +1,28 @@
+s = {
+	title = ZSTR "$$$/AgDevelopModule/Templates/ToneCurveStringContrast=Tone Curve - Strong Contrast",
+	internalName = "ToneCurveStringContrast",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = 0,
+			ParametricDarks = -15,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 8,
+			ParametricLights = 15,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -30,
+			ToneCurve = {
+				0, 0,
+				32, 22,
+				64, 56,
+				128, 128,
+				192, 196,
+				255, 255
+			},
+		},
+		uuid = "AAA1D069-EC4A-45E4-9FFF-E3579ADB021A",
+	},
+	version = 3,
+}

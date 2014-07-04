@@ -1,0 +1,16 @@
+s = {
+	id = "331391EE-85E6-40A3-80D1-04CE0701F258",
+	internalName = "Noise Reduction - Medium",
+	title = "Noise Reduction - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 10,
+			LuminanceNoiseReductionDetail = 55,
+			LuminanceSmoothing = 50,
+		},
+		uuid = "AF00766F-8A1F-4CCF-8235-58B15F0B4543",
+	},
+	version = 0,
+}

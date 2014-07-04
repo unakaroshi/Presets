@@ -1,0 +1,16 @@
+s = {
+	id = "186B040C-545F-4446-A521-DCF284B864E2",
+	internalName = "Noise Reduction - Strong",
+	title = "Noise Reduction - Strong",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 10,
+			LuminanceNoiseReductionDetail = 42,
+			LuminanceSmoothing = 59,
+		},
+		uuid = "F2AB2A12-C567-4106-BB66-64042A5587EA",
+	},
+	version = 0,
+}

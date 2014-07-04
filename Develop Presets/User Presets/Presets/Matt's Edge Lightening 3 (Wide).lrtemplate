@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's Edge Lightening 3 (Wide)",
+	title = "Matt's Edge Lightening 3 (Wide)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = 100,
+			VignetteMidpoint = 10,
+		},
+		uuid = "2E3D3C6A-F817-4FE0-8ADF-6604B2E690FE",
+	},
+	version = 0,
+}

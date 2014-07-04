@@ -1,0 +1,16 @@
+s = {
+	id = "BCB3C0C6-F56E-435C-B043-53698FD21F9C",
+	internalName = "Noise Reduction - Light",
+	title = "Noise Reduction - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 10,
+			LuminanceNoiseReductionDetail = 55,
+			LuminanceSmoothing = 20,
+		},
+		uuid = "A49B4698-D0BB-47B5-B921-0A1D6E9E84E6",
+	},
+	version = 0,
+}

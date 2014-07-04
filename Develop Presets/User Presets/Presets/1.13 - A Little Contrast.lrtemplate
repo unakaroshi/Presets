@@ -1,0 +1,33 @@
+s = {
+	internalName = "1.13 - A Little Contrast",
+	title = "1.13 - A Little Contrast",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = -5,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 5,
+			ParametricLights = 10,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -5,
+			ToneCurve = {
+				0,
+				0,
+				32,
+				22,
+				64,
+				56,
+				128,
+				128,
+				192,
+				196,
+				255,
+				255,
+			},
+			ToneCurveName = "Medium Contrast",
+		},
+		uuid = "4A315073-C986-428A-8323-A712B19CC47E",
+	},
+	version = 0,
+}

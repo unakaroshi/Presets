@@ -1,0 +1,17 @@
+s = {
+	id = "DB66095D-8603-4759-8AAD-9FAA4581B5B8",
+	internalName = "Sharpen > Portraits > Light",
+	title = "Sharpen > Portraits > Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 33,
+			SharpenEdgeMasking = 84,
+			SharpenRadius = 1.3,
+			Sharpness = 55,
+		},
+		uuid = "6AAA6AFE-15D8-46AC-8594-AF27072CC6B2",
+	},
+	version = 0,
+}

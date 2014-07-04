@@ -1,0 +1,17 @@
+s = {
+	internalName = "1.07 - RAWESOME",
+	title = "1.07 - RAWESOME",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Brightness = 60,
+			Contrast = 55,
+			Shadows = 10,
+		},
+		uuid = "7AB4BC7E-6E40-4785-A2EB-FBC57C518BCA",
+	},
+	version = 0,
+}

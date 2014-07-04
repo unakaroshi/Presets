@@ -1,0 +1,14 @@
+s = {
+	internalName = "Fantasy Island",
+	title = "Fantasy Island",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = -60,
+			Saturation = 25,
+			Vibrance = -71,
+		},
+		uuid = "A3FB7174-A451-4EB9-A443-01DC08A43A39",
+	},
+	version = 0,
+}

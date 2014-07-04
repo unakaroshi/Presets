@@ -1,0 +1,20 @@
+s = {
+	internalName = "Something Interesting",
+	title = "Something Interesting",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			HighlightRecovery = 20,
+			IncrementalTemperature = 52,
+			IncrementalTint = 0,
+			Shadows = 13,
+			WhiteBalance = "Custom",
+		},
+		uuid = "CA52A295-681E-4200-A9D7-96FB62471EA0",
+	},
+	version = 0,
+}

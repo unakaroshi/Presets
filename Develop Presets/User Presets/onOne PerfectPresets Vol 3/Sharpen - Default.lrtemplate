@@ -1,0 +1,17 @@
+s = {
+	id = "403FE72F-CE15-45CB-8176-E3F63DE54634",
+	internalName = "Sharpen > Default",
+	title = "Sharpen > Default",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 25,
+		},
+		uuid = "4AC1AE48-EE71-4DED-A790-15DF5C7945DF",
+	},
+	version = 0,
+}

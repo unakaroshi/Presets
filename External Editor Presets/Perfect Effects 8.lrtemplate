@@ -1,0 +1,12 @@
+s = {
+	id = "42312D83-C476-4957-86D2-FD447B0AA4B8",
+	internalName = "Perfect Effects 8",
+	title = "Perfect Effects 8",
+	type = "ExternalEditor",
+	value = {
+		externalEditingFormat = "PSD_16_AdobeRGB",
+		externalEditingFormat_dpi = 300,
+		externalEditorFullPath = "C:\\ProgramData\\onOne Software\\Perfect Layers 8\\Lightroom Stubs\\Perfect Effects 8.exe",
+	},
+	version = 0,
+}

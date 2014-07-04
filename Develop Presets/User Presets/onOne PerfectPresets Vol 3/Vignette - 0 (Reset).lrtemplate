@@ -1,0 +1,22 @@
+s = {
+	id = "0EA4BB28-5A7B-406B-95D8-6BF135A0BCD3",
+	internalName = "Vignette - 0 (Reset)",
+	title = "Vignette - 0 (Reset)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			EnableLensCorrections = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 3,
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "16120EFA-F5A1-45BA-8968-634843A5C656",
+	},
+	version = 0,
+}

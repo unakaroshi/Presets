@@ -1,0 +1,22 @@
+s = {
+	id = "442EC470-2300-4360-8CC9-D36892A8911F",
+	internalName = "Vignette - 2",
+	title = "Vignette - 2",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			EnableLensCorrections = true,
+			PostCropVignetteAmount = -83,
+			PostCropVignetteFeather = 59,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 80,
+			PostCropVignetteRoundness = 78,
+			PostCropVignetteStyle = 1,
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "214F9767-3EAC-477E-916E-3DA553B515FA",
+	},
+	version = 0,
+}

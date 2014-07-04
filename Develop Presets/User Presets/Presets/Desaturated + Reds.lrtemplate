@@ -1,0 +1,20 @@
+s = {
+	internalName = "Desaturated + Reds",
+	title = "Desaturated + Reds",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = -100,
+			BlueSaturation = -4,
+			CameraProfile = "Embedded",
+			EnableCalibration = true,
+			GreenHue = -100,
+			GreenSaturation = 4,
+			RedHue = 100,
+			RedSaturation = -100,
+			ShadowTint = -2,
+		},
+		uuid = "F16F65D5-AB6D-409C-81FE-B4D5E752FD8E",
+	},
+	version = 0,
+}

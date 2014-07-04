@@ -1,0 +1,17 @@
+s = {
+	internalName = "Blue/Red Cross",
+	title = "Blue/Red Cross",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 360,
+			SplitToningHighlightSaturation = 26,
+			SplitToningShadowHue = 191,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "250CB8E1-176F-45B2-8597-10F57DCC842F",
+	},
+	version = 0,
+}

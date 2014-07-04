@@ -1,0 +1,22 @@
+s = {
+	id = "3D8F8A30-F28A-4685-87B1-091EA321EA4B",
+	internalName = "Nikon - Standard",
+	title = "Nikon - Standard",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Standard",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "0D6BA2FB-347E-4672-974B-06B23D7568AD",
+	},
+	version = 0,
+}

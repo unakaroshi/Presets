@@ -1,0 +1,20 @@
+s = {
+	id = "C6CD6876-403F-4985-85BE-814B20E45137",
+	internalName = "Sharpen (Med) + Noise Reduction",
+	title = "Sharpen (Med) + Noise Reduction",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 100,
+			SharpenDetail = 27,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1.4,
+			Sharpness = 51,
+		},
+		uuid = "4260BB99-83AB-4B02-9473-782EDE609978",
+	},
+	version = 0,
+}

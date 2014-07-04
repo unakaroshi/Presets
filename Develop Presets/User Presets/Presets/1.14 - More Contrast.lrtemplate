@@ -1,0 +1,33 @@
+s = {
+	internalName = "1.14 - More Contrast",
+	title = "1.14 - More Contrast",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = -10,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 10,
+			ParametricLights = 15,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -10,
+			ToneCurve = {
+				0,
+				0,
+				32,
+				22,
+				64,
+				56,
+				128,
+				128,
+				192,
+				196,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "105B4BF5-3174-4FC9-BCFF-0AC43FADE996",
+	},
+	version = 0,
+}

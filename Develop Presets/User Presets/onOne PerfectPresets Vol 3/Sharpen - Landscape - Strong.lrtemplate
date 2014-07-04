@@ -1,0 +1,17 @@
+s = {
+	id = "1E29BEB6-12D4-4A91-81F8-365B6B37E8C4",
+	internalName = "Sharpen > Landscape > Strong",
+	title = "Sharpen > Landscape > Strong",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 51,
+			SharpenEdgeMasking = 66,
+			SharpenRadius = 1.2,
+			Sharpness = 85,
+		},
+		uuid = "502E28DB-4180-4010-829C-3F26223A6952",
+	},
+	version = 0,
+}

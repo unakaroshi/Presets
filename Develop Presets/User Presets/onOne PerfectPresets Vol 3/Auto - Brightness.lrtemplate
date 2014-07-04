@@ -1,0 +1,14 @@
+s = {
+	id = "AFCD55D9-B2F4-438E-845E-F2BE911039C1",
+	internalName = "Auto > Brightness",
+	title = "Auto > Brightness",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			Brightness = 20,
+		},
+		uuid = "337A42AB-0B51-465D-A46D-85744FAA32AD",
+	},
+	version = 0,
+}

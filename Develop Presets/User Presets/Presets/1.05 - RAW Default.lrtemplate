@@ -1,0 +1,17 @@
+s = {
+	internalName = "1.05 - RAW Default",
+	title = "1.05 - RAW Default",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Brightness = 50,
+			Contrast = 25,
+			Shadows = 5,
+		},
+		uuid = "9ED13106-366B-4603-94F8-63680545BFD3",
+	},
+	version = 0,
+}

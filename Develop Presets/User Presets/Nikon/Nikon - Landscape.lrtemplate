@@ -1,0 +1,22 @@
+s = {
+	id = "FF51D896-719C-4F5A-8309-01DFF2B09E42",
+	internalName = "Nikon - Landscape",
+	title = "Nikon - Landscape",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Landscape",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "8CF4C7D9-C66B-4EBC-ADBA-6543B2E6E0E4",
+	},
+	version = 0,
+}

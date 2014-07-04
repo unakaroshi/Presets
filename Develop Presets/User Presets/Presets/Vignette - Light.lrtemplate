@@ -1,0 +1,16 @@
+s = {
+	internalName = "Vignette - Light",
+	title = "Vignette - Light",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = -15,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+		},
+		uuid = "B116DD1E-30DA-4BC9-B297-C7A2F8A04E38",
+	},
+	version = 0,
+}

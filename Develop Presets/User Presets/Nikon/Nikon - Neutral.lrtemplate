@@ -1,0 +1,22 @@
+s = {
+	id = "48BFD13B-7ECD-4C31-A252-E0AEB3E96B69",
+	internalName = "Nikon - Neutral",
+	title = "Nikon - Neutral",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Neutral",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "45CE7645-5073-449D-9A6A-69A41CF3CCAA",
+	},
+	version = 0,
+}

@@ -1,0 +1,35 @@
+s = {
+	title = ZSTR "$$$/AgVideoCodec/Template/1080PTL=1080p @24fps LRTimelapse (Full HD)",
+	internalName = "1080PTL24",
+	type = "audio_video_encoding",
+	version = 1,
+	value = {
+		example_uses = ZSTR "$$$/AgVideoCodec/Template/1080PTL/uses=1080p LRTimelapse 24fps",
+		sort_order = 108024,
+		video = {
+			encoder = "H.264",
+			width = 1920,
+			height = 1080,
+			frame_rate = 24,
+			num_ref_frames = 4,
+			bit_rate = 12000000,
+			max_bit_rate = 16000000,
+			level = "4.0",
+			video_standard = 'VM_NTSC',
+			video_type = 'H264_BASELINE',
+			color_space = 'FOURCC_BGRA',
+			interlace_mode = 'DEFAULT',
+			bit_rate_mode = 'DEFAULT',
+			hrd_maintain = 'HRD_MODEL_ENABLED',
+			performance = 15,
+			
+			-- muxer settings
+			file_format = "FORMAT_MP4",
+			stream_compatibility = "DEFAULT",
+		},
+		audio = {
+			transfer_format = "16LE",
+			audio_profile = "DEFAULT",
+		}
+	}
+}

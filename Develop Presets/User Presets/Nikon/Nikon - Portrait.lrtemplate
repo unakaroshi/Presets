@@ -1,0 +1,22 @@
+s = {
+	id = "2DF94919-3D0D-474B-9707-09D525675D56",
+	internalName = "Nikon - Portrait",
+	title = "Nikon - Portrait",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Portrait",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "639948FF-F226-411A-8908-D4CDEEC10549",
+	},
+	version = 0,
+}

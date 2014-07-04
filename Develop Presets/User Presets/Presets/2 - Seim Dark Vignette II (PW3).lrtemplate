@@ -1,0 +1,22 @@
+s = {
+	id = "D80FC1F9-E07E-4511-9F4D-CA43CE4BECCC",
+	internalName = "1:08 Dark Vignette 2 (PW3)",
+	title = "2 - Seim Dark Vignette II (PW3)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			EnableLensCorrections = true,
+			PostCropVignetteAmount = -37,
+			PostCropVignetteFeather = 85,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 65,
+			PostCropVignetteRoundness = 60,
+			PostCropVignetteStyle = 1,
+			VignetteAmount = 0,
+			VignetteMidpoint = 25,
+		},
+		uuid = "F127C2E5-54A9-456B-ABC3-6BD2C597D84B",
+	},
+	version = 0,
+}

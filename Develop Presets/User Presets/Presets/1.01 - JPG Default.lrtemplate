@@ -1,0 +1,17 @@
+s = {
+	internalName = "1.01 - JPG Default",
+	title = "1.01 - JPG Default",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Brightness = 0,
+			Contrast = 0,
+			Shadows = 0,
+		},
+		uuid = "10F52279-9EC9-449E-AC88-57A0FBE2DBBE",
+	},
+	version = 0,
+}

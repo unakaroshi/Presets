@@ -1,0 +1,51 @@
+s = {
+	id = "BF3B4F57-C064-4AF1-ABCE-93F3A7F5CC8D",
+	internalName = "Marie",
+	title = "Marie",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = false,
+		columnBrowserDesc = {
+			{
+				criteria = "keywordHierarchy",
+				selections = {
+					609898,
+				},
+			},
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "label",
+			},
+			notify = true,
+		},
+		customLabel = false,
+		filtersActive = false,
+		gpsLocation = false,
+		gpsLocationNELatitude = "<nil>",
+		gpsLocationNELongitude = "<nil>",
+		gpsLocationSWLatitude = "<nil>",
+		gpsLocationSWLongitude = "<nil>",
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 0,
+		noLabel = false,
+		pick = "flagged",
+		ratingOp = ">=",
+		searchOp = "all",
+		searchString = "Marie",
+		searchStringActive = true,
+		searchTarget = "all",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "A8EF29AE-0BF4-48C5-BBE0-7C4803F1AE1C",
+	internalName = "Vignette - 4",
+	title = "Vignette - 4",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			EnableLensCorrections = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 34,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -100,
+			PostCropVignetteStyle = 3,
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "96F284FB-373F-47DA-BE9D-EDE9311907F8",
+	},
+	version = 0,
+}

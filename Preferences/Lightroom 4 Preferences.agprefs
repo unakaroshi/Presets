@@ -1,0 +1,1352 @@
+prefs = {
+	Adobe_checkCatalogIntegrityForPaths = "catalogsToCheck = {\
+}\
+",
+	AgApplication_HasRegisteredAutoPlay = true,
+	AgCameraRawNamedSettings_autoGrayMixer = false,
+	AgCameraRawNamedSettings_autoTone = false,
+	AgCameraRawNamedSettings_blacks2012 = true,
+	AgCameraRawNamedSettings_brightness = true,
+	AgCameraRawNamedSettings_calibration = false,
+	AgCameraRawNamedSettings_chromaticAberration2012 = true,
+	AgCameraRawNamedSettings_chrominanceNR = true,
+	AgCameraRawNamedSettings_clarity = false,
+	AgCameraRawNamedSettings_clarity2012 = true,
+	AgCameraRawNamedSettings_colorAdjustments = true,
+	AgCameraRawNamedSettings_contrast = true,
+	AgCameraRawNamedSettings_contrast2012 = true,
+	AgCameraRawNamedSettings_crop = false,
+	AgCameraRawNamedSettings_cropAngle = false,
+	AgCameraRawNamedSettings_cropAspectRatio = false,
+	AgCameraRawNamedSettings_dustSpots = false,
+	AgCameraRawNamedSettings_exposure = true,
+	AgCameraRawNamedSettings_exposure2012 = true,
+	AgCameraRawNamedSettings_fillLight = true,
+	AgCameraRawNamedSettings_gradients = false,
+	AgCameraRawNamedSettings_grain = false,
+	AgCameraRawNamedSettings_grayMixer = false,
+	AgCameraRawNamedSettings_highlights2012 = true,
+	AgCameraRawNamedSettings_hsl_hue = false,
+	AgCameraRawNamedSettings_hsl_luminance = false,
+	AgCameraRawNamedSettings_hsl_saturation = false,
+	AgCameraRawNamedSettings_lensProfile = true,
+	AgCameraRawNamedSettings_lensVignette = true,
+	AgCameraRawNamedSettings_luminanceNR = true,
+	AgCameraRawNamedSettings_name = false,
+	AgCameraRawNamedSettings_painting = false,
+	AgCameraRawNamedSettings_postCropVignette = false,
+	AgCameraRawNamedSettings_processVersion = true,
+	AgCameraRawNamedSettings_recovery = true,
+	AgCameraRawNamedSettings_redEyeInfo = false,
+	AgCameraRawNamedSettings_saturation = true,
+	AgCameraRawNamedSettings_shadows = true,
+	AgCameraRawNamedSettings_shadows2012 = true,
+	AgCameraRawNamedSettings_sharpness = true,
+	AgCameraRawNamedSettings_softProofing = false,
+	AgCameraRawNamedSettings_splitToning = true,
+	AgCameraRawNamedSettings_tone = true,
+	AgCameraRawNamedSettings_toneCurve = false,
+	AgCameraRawNamedSettings_toneCurve2012 = true,
+	AgCameraRawNamedSettings_transform = true,
+	AgCameraRawNamedSettings_treatmentColor = true,
+	AgCameraRawNamedSettings_treatmentGrayscale = false,
+	AgCameraRawNamedSettings_vibrance = true,
+	AgCameraRawNamedSettings_whiteBalance = true,
+	AgCameraRawNamedSettings_whites2012 = true,
+	AgColorPlopup_Phase = 0,
+	AgColorPlopup_RampAxis = "s",
+	AgColorPlopup_Space = "HSL",
+	AgColorPlopup_WebColorField = false,
+	AgCommonUI_backgroundTexture = "pinstripes",
+	AgCommonUI_useTypographicFractions = true,
+	AgDevelop_HSLTuningShowColorAqua = false,
+	AgDevelop_HSLTuningShowColorBlue = false,
+	AgDevelop_HSLTuningShowColorGreen = false,
+	AgDevelop_HSLTuningShowColorMagenta = false,
+	AgDevelop_HSLTuningShowColorOrange = false,
+	AgDevelop_HSLTuningShowColorPurple = false,
+	AgDevelop_HSLTuningShowColorRed = true,
+	AgDevelop_HSLTuningShowColorYellow = false,
+	AgDevelop_HSLTuningShowComponentHue = false,
+	AgDevelop_HSLTuningShowComponentLuminance = false,
+	AgDevelop_HSLTuningShowComponentSaturation = true,
+	AgDevelop_HSLTuningWhichColor = "Red",
+	AgDevelop_HSLTuningWhichComponent = "Saturation",
+	AgDevelop_HSLTuningWhichType = "by_hsl",
+	AgDevelop_adjustPanel_Collapsed = false,
+	AgDevelop_autoCropGrid = true,
+	AgDevelop_autoSyncEnabled = false,
+	AgDevelop_beforeAfterLoupeFullImage = true,
+	AgDevelop_beforeAfterTools20 = "tools = {\
+	beforeAfter = true,\
+	caption = true,\
+}\
+",
+	AgDevelop_beforeTools = "tools = {\
+	beforeOnly = true,\
+	view_modes = true,\
+}\
+",
+	AgDevelop_calibratePanel_Collapsed = false,
+	AgDevelop_calibratePanel_ExpansionState = 0,
+	AgDevelop_collectionsPanel_Collapsed = false,
+	AgDevelop_cropGrid = "thirds",
+	AgDevelop_detailPanel_Collapsed = false,
+	AgDevelop_detailPanel_ExpansionState = 0,
+	AgDevelop_dustSpotOpacity = 1,
+	AgDevelop_dustSpotRadius = 0.016683368393958,
+	AgDevelop_editPointCurve = false,
+	AgDevelop_effectsPanel_Collapsed = false,
+	AgDevelop_effectsPanel_ExpansionState = 0,
+	AgDevelop_hideTargetAdjustmentInfoMomentarily = false,
+	AgDevelop_highlightClippingOnMouseOver = true,
+	AgDevelop_histogramPanel_ExpansionState = 1,
+	AgDevelop_leftPanels_inSoloMode = false,
+	AgDevelop_lensCorrectionsPanel_Collapsed = false,
+	AgDevelop_lensCorrectionsPanel_ExpansionState = 0,
+	AgDevelop_localizedAdvancedMode = false,
+	AgDevelop_localizedAutoMask = true,
+	AgDevelop_localizedBrightnessLast = 0.25,
+	AgDevelop_localizedBrushAddValue = 1,
+	AgDevelop_localizedBrushFeather = 0.734,
+	AgDevelop_localizedBrushFlow = 0.8,
+	AgDevelop_localizedBrushSize = 0.06,
+	AgDevelop_localizedBrushStrokeOpacity = 1,
+	AgDevelop_localizedClarity2012Last = 0.5,
+	AgDevelop_localizedClarityLast = 0.5,
+	AgDevelop_localizedContrast2012Last = 0.25,
+	AgDevelop_localizedContrastLast = 0.25,
+	AgDevelop_localizedDefringeLast = 0.25,
+	AgDevelop_localizedExposure2012Last = 0.25,
+	AgDevelop_localizedExposureLast = 0.25,
+	AgDevelop_localizedGradientAmount = 0.5,
+	AgDevelop_localizedHighlights2012Last = 0.25,
+	AgDevelop_localizedLuminanceNoiseLast = 0.4,
+	AgDevelop_localizedMaskColor = "red",
+	AgDevelop_localizedMoireLast = 0.25,
+	AgDevelop_localizedPaintAmount = 0.5,
+	AgDevelop_localizedPaintClarity = 0,
+	AgDevelop_localizedPaintClarity2012 = 0,
+	AgDevelop_localizedPaintContrast = 0,
+	AgDevelop_localizedPaintContrast2012 = 0,
+	AgDevelop_localizedPaintDefringe = 0,
+	AgDevelop_localizedPaintExposure = 0,
+	AgDevelop_localizedPaintExposure2012 = 0.04675,
+	AgDevelop_localizedPaintHighlights2012 = 0,
+	AgDevelop_localizedPaintLuminanceNoise = 0,
+	AgDevelop_localizedPaintMidtones = 0,
+	AgDevelop_localizedPaintMoire = 0,
+	AgDevelop_localizedPaintPreset_a = "preset = {\
+	auto_mask = true,\
+	feather = 0.734,\
+	flow = 0.8,\
+	opacity = 1,\
+	size = 0.06,\
+}\
+",
+	AgDevelop_localizedPaintPreset_b = "preset = {\
+	airbrush = false,\
+	auto_mask = false,\
+	feather = 0,\
+	flow = 1,\
+	opacity = 1,\
+	size = 0.05,\
+}\
+",
+	AgDevelop_localizedPaintPreset_selected = "a",
+	AgDevelop_localizedPaintPreset_subtract = "preset = {\
+	airbrush = false,\
+	auto_mask = false,\
+	feather = 1,\
+	flow = 1,\
+	opacity = 1,\
+	size = 0.05,\
+}\
+",
+	AgDevelop_localizedPaintSaturation = 0,
+	AgDevelop_localizedPaintShadows2012 = 0,
+	AgDevelop_localizedPaintSharpness = 0,
+	AgDevelop_localizedPaintTemperature = 0,
+	AgDevelop_localizedPaintTint = 0,
+	AgDevelop_localizedPaintTintHue = 240,
+	AgDevelop_localizedPaintTintSaturation = 0,
+	AgDevelop_localizedSaturationLast = 0.25,
+	AgDevelop_localizedShadows2012Last = 0.25,
+	AgDevelop_localizedSharpnessLast = 0.25,
+	AgDevelop_localizedTemperatureLast = 0.25,
+	AgDevelop_localizedTintLast = 0.25,
+	AgDevelop_loupeTools = "tools = {\
+	view_modes = true,\
+}\
+",
+	AgDevelop_mixerPanel_Collapsed = false,
+	AgDevelop_mixerPanel_ExpansionState = 0,
+	AgDevelop_namedSettingsFrame = AgRect( 562, 319, 1467, 708 ),
+	AgDevelop_namedSettingsFrame_showCmd = 1,
+	AgDevelop_navigatorPanel_ExpansionState = 1,
+	AgDevelop_pointCurveEditor_ExpansionState = 0,
+	AgDevelop_presetsPanel_history_Collapsed = false,
+	AgDevelop_presetsPanel_presets_Collapsed = false,
+	AgDevelop_presetsPanel_snapshots_Collapsed = false,
+	AgDevelop_presetsPanel_snapshots_Enabled = true,
+	AgDevelop_redeyeLastEyeHeight = 0.04,
+	AgDevelop_redeyeLastEyeWidth = 0.04,
+	AgDevelop_rightPanels_inSoloMode = false,
+	AgDevelop_showClippingIndicators = true,
+	AgDevelop_showCropGrid = "always",
+	AgDevelop_showGamutIndicators = true,
+	AgDevelop_showGradientOverlay = "auto",
+	AgDevelop_showHoverOverlay = true,
+	AgDevelop_showInfo = true,
+	AgDevelop_showLocalizedOverlay = "always",
+	AgDevelop_showLoupeWorkingOverlay = true,
+	AgDevelop_showRedeyeOverlay = "always",
+	AgDevelop_showSpotRemovalOverlay = "auto",
+	AgDevelop_showTargetAdjustmentAmount = 0,
+	AgDevelop_splitToningPanel_Collapsed = false,
+	AgDevelop_splitToningPanel_ExpansionState = 0,
+	AgDevelop_spotType = "heal",
+	AgDevelop_target = "activePhoto",
+	AgDevelop_targetAdjustment = "LensManualDistortionAmount",
+	AgDevelop_targetToolSampleSize = "point",
+	AgDevelop_toneCurve_ShowInfo = true,
+	AgDevelop_tonePanel_Collapsed = false,
+	AgDevelop_tonePanel_ExpansionState = 0,
+	AgDevelop_toolbar_revealedState = "normal",
+	AgDialogs_currentDirectory = "E:\\tmp\\Backupkatalog",
+	AgDocument_defaultModuleID = "com.adobe.ag.develop",
+	AgDocument_moduleHost_firstPanelShowing = true,
+	AgDocument_moduleHost_lastPanelShowing = true,
+	AgDocument_moduleHost_lastPanelSize = 122,
+	AgDrawing_mirrorImageMode = false,
+	AgEditExternally_editBehaviorFrame = AgRect( 792, 398, 1312, 705 ),
+	AgEditExternally_editBehaviorFrame_showCmd = 1,
+	AgEditExternally_formatOptions_ExpansionState = 0,
+	AgEditExternally_putInStack = true,
+	AgEditExternally_sequenceNumber = 12,
+	AgEditExternally_tokens = "{{image_name}}-Bearbeitet",
+	AgEventLoop_slowEventHandling = false,
+	AgExportDialog_com_adobe_ag_export_file_postProcessingSection_Collapsed = false,
+	AgExportDialog_com_adobe_lightroom_export_facebook_section_top1_Collapsed = false,
+	AgExportDialog_com_adobe_lightroom_export_facebook_section_top2_Collapsed = false,
+	AgExportDialog_com_adobe_lightroom_export_facebook_section_top3_Collapsed = false,
+	AgExportDialog_com_adobe_lightroom_export_flickr_section_bottom1_Collapsed = false,
+	AgExportDialog_com_adobe_lightroom_export_flickr_section_top1_Collapsed = false,
+	AgExportDialog_com_adobe_lightroom_export_flickr_section_top2_Collapsed = false,
+	AgExportDialog_dialogFrame = AgRect( 406, 143, 1381, 890 ),
+	AgExportDialog_dialogFrame_showCmd = 1,
+	AgExportDialog_exportLocationSection_Collapsed = false,
+	AgExportDialog_fileSettingsSection_Collapsed = false,
+	AgExportDialog_imageControlsSection_Collapsed = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom1_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom2_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom3_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom4_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom5_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom6_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_bottom7_Collapsed"] = false,
+	["AgExportDialog_info_regex_lightroom_export_collection-publisher_section_top1_Collapsed"] = false,
+	AgExportDialog_metadataSection_Collapsed = false,
+	AgExportDialog_outputSharpeningSection_Collapsed = false,
+	AgExportDialog_publishConnectionSection_Collapsed = false,
+	AgExportDialog_tokenSection_Collapsed = false,
+	AgExportDialog_videoSection_Collapsed = false,
+	AgExportDialog_watermarkingSection_Collapsed = false,
+	AgExport_DNG_compatibility = 117506048,
+	AgExport_DNG_compressed = true,
+	AgExport_DNG_conversionMethod = "preserveRAW",
+	AgExport_DNG_embedCache = true,
+	AgExport_DNG_embedRAW = false,
+	AgExport_DNG_lossyCompression = false,
+	AgExport_DNG_previewSize = "medium",
+	AgExport_collisionHandling = "ask",
+	AgExport_embeddedMetadataOption = "copyrightOnly",
+	AgExport_exportServiceProvider = "com.adobe.ag.export.file",
+	AgExport_exportServiceProviderTitle = "Festplatte",
+	AgExport_export_bitDepth = 16,
+	AgExport_export_colorSpace = "sRGB",
+	AgExport_export_colorSpaceJPEG = "sRGB",
+	AgExport_export_destinationPathSuffix = "",
+	AgExport_export_destinationType = "chooseLater",
+	AgExport_export_postProcessing = "revealInFinder",
+	AgExport_export_useSubfolder = false,
+	AgExport_export_videoFileHandling = "include",
+	AgExport_export_videoFormat = "4e49434b-4832-3634-fbfb-fbfbfbfbfbfb",
+	AgExport_export_videoPreset = "original",
+	AgExport_extensionCase = "lowercase",
+	AgExport_format = "JPEG",
+	AgExport_includeVideoFiles = true,
+	AgExport_initialSequenceNumber = 1,
+	AgExport_jpeg_limitSize = 100,
+	AgExport_jpeg_quality = 1,
+	AgExport_jpeg_useLimitSize = false,
+	AgExport_metadata_keywordOptions = "flat",
+	AgExport_minimizeEmbeddedMetadata = true,
+	AgExport_outputSharpeningLevel = 2,
+	AgExport_outputSharpeningMedia = "screen",
+	AgExport_outputSharpeningOn = true,
+	AgExport_png_interlaced = false,
+	AgExport_reimportExportedPhoto = false,
+	AgExport_reimport_stackWithOriginal = false,
+	AgExport_reimport_stackWithOriginal_position = "below",
+	AgExport_removeLocationMetadata = true,
+	AgExport_renamingTokensOn = true,
+	AgExport_selectedPresetId = "D868266F-91BE-4855-B976-3C84674630B2",
+	AgExport_selectedTextFontFamily = "Myriad Web Pro",
+	AgExport_selectedTextFontSize = 12,
+	AgExport_size_doConstrain = true,
+	AgExport_size_doNotEnlarge = false,
+	AgExport_size_maxHeight = 1080,
+	AgExport_size_maxWidth = 1920,
+	AgExport_size_megapixels = 5,
+	AgExport_size_resizeType = "wh",
+	AgExport_size_resolution = 240,
+	AgExport_size_resolutionUnits = "inch",
+	AgExport_size_units = "pixels",
+	AgExport_size_userWantsConstrain = true,
+	AgExport_tiff_compressionMethod = "compressionMethod_None",
+	AgExport_tokenCustomString = "",
+	AgExport_tokens = "{{image_name}}",
+	AgExport_tokensArchivedToString2 = "{{image_name}}",
+	AgExport_useWatermark = false,
+	AgExport_watermarking_id = "<simpleCopyrightWatermark>",
+	AgFTP_passive = "normal",
+	AgFTP_password = "",
+	AgFTP_path = "",
+	AgFTP_port = 21,
+	AgFTP_protocol = "ftp",
+	AgFTP_server = "",
+	AgFTP_storePassword = false,
+	AgFTP_title = "Unbenannte FTP",
+	AgFTP_username = "",
+	AgFilenameIllegalChar_illegalCharSet = "minimal",
+	AgFilenameIllegalChar_policy = "replaceWithDash",
+	AgFilenameSpace_policy = "allowSpaces",
+	AgHTemplateBrowserView_expandedFolders_Develop = "s = {\
+	[\"Allgemeine Vorgaben Lightroom\"] = true,\
+	Benutzervorgaben = true,\
+	[\"Effektvorgaben Lightroom\"] = true,\
+	[\"Farbvorgaben Lightroom\"] = true,\
+	[\"Lightroom B&W Toned Presets\"] = true,\
+	Nikon = true,\
+	PresetPond = true,\
+	Presets = true,\
+	[\"S/W-Filtervorgaben Lightroom\"] = true,\
+	[\"S/W-Vorgaben Lightroom\"] = true,\
+	[\"Videovorgaben Lightroom\"] = true,\
+	[\"onOne Cross Process\"] = true,\
+	[\"onOne Glow\"] = true,\
+	[\"onOne Gritty Punch\"] = true,\
+	[\"onOne Hand Tinting\"] = true,\
+	[\"onOne Movie Looks\"] = true,\
+	[\"onOne PerfectPresets Vol 1\"] = true,\
+	[\"onOne PerfectPresets Vol 2\"] = true,\
+	[\"onOne PerfectPresets Vol 3\"] = true,\
+	[\"onOne Photo Filters and Gradients\"] = true,\
+	[\"onOne Toners\"] = true,\
+	[\"onOne Vignettes\"] = true,\
+	[\"onOne Vintage\"] = true,\
+}\
+",
+	AgHTemplateBrowserView_expandedFolders_Export = "s = {\
+	Benutzervorgaben = true,\
+	JPG = true,\
+	[\"Lightroom-Vorgaben\"] = true,\
+}\
+",
+	AgHTemplateBrowserView_expandedFolders_Print = "s = {\
+	[\"Lightroom-Vorlagen\"] = true,\
+}\
+",
+	AgHTemplateBrowserView_expandedFolders_Web = "s = {\
+	[\"Lightroom-Vorlagen\"] = true,\
+}\
+",
+	AgHTemplateBrowserView_newFolderFrame = AgRect( 829, 492, 1199, 589 ),
+	AgHTemplateBrowserView_newFolderFrame_showCmd = 1,
+	AgHTemplateBrowserView_newTemplateFrame = AgRect( 825, 474, 1204, 606 ),
+	AgHTemplateBrowserView_newTemplateFrame_showCmd = 1,
+	AgImportDialog_destinationFolderPath = "E:\\Data\\LightroomKataloge\\Default",
+	AgImport_DNG_compatibility = 117506048,
+	AgImport_DNG_compressed = true,
+	AgImport_DNG_conversionMethod = "preserveRAW",
+	AgImport_DNG_embedCache = true,
+	AgImport_DNG_embedRAW = false,
+	AgImport_DNG_fileExtension = "dng",
+	AgImport_DNG_lossyCompression = false,
+	AgImport_DNG_previewSize = "medium",
+	AgImport_advancedMode = true,
+	AgImport_autoSegmentMethod = "autoSegment_Date",
+	AgImport_backupDownloadFolder = "C:\\Users\\michael\\Pictures\\Lightroom\\Download-Backups",
+	AgImport_crSettingsID = "725C78C1-5321-4389-8341-7BB8F15AAC95",
+	AgImport_debugPanel_Collapsed = true,
+	AgImport_defaultGroupType = "destinationFolder",
+	AgImport_defaultSortOrder = "unsorted",
+	AgImport_destinationPanel_Collapsed = false,
+	AgImport_destinationPanel_Enabled = true,
+	AgImport_destinationPanels_inSoloMode = false,
+	AgImport_destinationView = "allFolders",
+	AgImport_doCopyToBackupFolder = false,
+	AgImport_ejectDeviceAfterImport = false,
+	AgImport_extensionCase = "unchanged",
+	AgImport_fileHandlingPanel_Collapsed = false,
+	AgImport_fileHandlingPanel_Enabled = true,
+	AgImport_fileNamingPanel_Collapsed = false,
+	AgImport_fileNamingPanel_Enabled = true,
+	AgImport_gridFilter = "folders",
+	AgImport_ignoreSuspectedDuplicates = true,
+	AgImport_importBehavior = "copyToLibrary",
+	AgImport_importDestinationFolderPath = "E:\\Data\\LightroomKataloge\\Default",
+	AgImport_importDestinationPanel_Collapsed = false,
+	AgImport_importDestinationPanel_Enabled = true,
+	AgImport_importDestinationPathSuffix = "Johannisfeuer",
+	AgImport_importDestinationUseSubfolder = true,
+	AgImport_importServiceProvider = "com.adobe.ag.import.file",
+	AgImport_importServiceProviderTitle = "Dateien auf Datenträger",
+	AgImport_initialSequenceNumber = 1,
+	AgImport_keywords = "Johannisfeuer, Neunburg",
+	AgImport_lastCopyBehavior = "copyToLibrary",
+	AgImport_lastImportPath = "L:\\DCIM\\101D7000",
+	AgImport_metadataPresetID = "3D1823CC-A55A-42A3-9CB3-5C00E62B37B4",
+	AgImport_previewBuildQuality = "final",
+	AgImport_previewJPEGQuality = 0.75,
+	AgImport_recursivelyScanFolders = true,
+	AgImport_renamingTokensOn = true,
+	AgImport_settingsPanel_Collapsed = false,
+	AgImport_settingsPanel_Enabled = true,
+	AgImport_shootNameFormat = "%Y/%Y-%m-%d",
+	AgImport_skipCameraFolderNamesInShoots = false,
+	AgImport_sourcePanel_Collapsed = false,
+	AgImport_sourcePanel_Enabled = true,
+	AgImport_sourcePanels_inSoloMode = false,
+	AgImport_standardPreviewSize = 1440,
+	AgImport_thumbnailSize = 160,
+	AgImport_tokenCustomString = "Johannisfeuer",
+	AgImport_tokenShootName = "",
+	AgImport_tokens = "{{custom_token}}-{{naming_sequenceNumber_4Digits}}",
+	AgImport_treatJPEGSidecarsAsSeparatePhotos = false,
+	AgLibraryBrowsePanel_includeSelectedPhotosInKeyword = false,
+	AgLibraryDocument_lastSelectedModule = "com.adobe.ag.develop",
+	AgLibraryExport_libraryExport_copyNegatives = true,
+	AgLibraryExport_libraryExport_copyPreviews = true,
+	AgLibraryExport_libraryExport_selectedPhotosOnlyWithMultiSelect = true,
+	AgLibraryExport_libraryExport_selectedPhotosOnlyWithSingleSelect = false,
+	AgLibrary_BackupDoIntegrityCheck = true,
+	["AgLibrary_BackupPathToFolder985A68D4-ED0A-43DF-9E72-48A938E93E66"] = "E:\\Data\\LightroomKataloge\\Anita\\Anita\\Backups",
+	["AgLibrary_BackupPathToFolderEA2068F4-55A5-45FF-81A4-A0152D783269"] = "E:\\Data\\LightroomKataloge\\Default\\Backups",
+	AgLibrary_BackupPeriodicity = "libraryBackupPeriodicity_oncePerWeek",
+	AgLibrary_FileRenaming_TokenCustomText = "2013-ADAC_Kart_Masters",
+	AgLibrary_FileRenaming_TokenInitialSequence = 1,
+	AgLibrary_FileRenaming_TokenString = "{{custom_token}}-{{naming_sequenceNumber_4Digits}}",
+	AgLibrary_QuickDev_color_ExpansionState = 0,
+	AgLibrary_QuickDev_exposure_ExpansionState = 0,
+	AgLibrary_QuickDev_general_ExpansionState = 0,
+	AgLibrary_autoCompleteInKeywordsField = true,
+	AgLibrary_autoHideInfo1 = false,
+	AgLibrary_autoHideInfo2 = false,
+	AgLibrary_autoSyncEnabled = true,
+	AgLibrary_browserHeight = 170,
+	AgLibrary_cellStyle = "expanded",
+	AgLibrary_checkedMetadataFields = "checked = {\
+	\"com_adobe_copyright\",\
+	\"com_adobe_copyrightState\",\
+	\"new preset name\",\
+}\
+",
+	AgLibrary_collectionsPanel_Collapsed = false,
+	AgLibrary_commentsPanel_Collapsed = false,
+	AgLibrary_commentsPanel_ExpansionState = 0,
+	AgLibrary_compareTools20 = "tools = {\
+	compare = true,\
+}\
+",
+	AgLibrary_compare_target = "activePhoto",
+	AgLibrary_defaultColumnGenerator_sortDescending_date = false,
+	AgLibrary_defaultCreateKeywordAsChild = false,
+	AgLibrary_defaultGroupType = "none",
+	AgLibrary_defaultSortType = "positionInCollection",
+	AgLibrary_defaultSpecialPresetItem = "custom",
+	AgLibrary_developPanel_Collapsed = false,
+	AgLibrary_doubleClickModule = "com.adobe.ag.develop",
+	AgLibrary_filmstripQuickFilterCollapsed = false,
+	AgLibrary_filterBarVisible = true,
+	AgLibrary_folderViewPanel_Collapsed = false,
+	AgLibrary_gridCondensedText1_v4 = "com.adobe.copynameOrBasename",
+	AgLibrary_gridCondensedText2 = "com.adobe.ratingAndLabel",
+	AgLibrary_gridExpandedText1 = "com.adobe.copynameOrBasename",
+	AgLibrary_gridExpandedText2_v4 = "com.adobe.copynameOrBasename",
+	AgLibrary_gridExpandedText3 = "com.adobe.exposureAndISO",
+	AgLibrary_gridExpandedText4 = "com.adobe.filenameExtension",
+	AgLibrary_gridFooterHasColorLabels = false,
+	AgLibrary_gridFooterHasRotation = true,
+	AgLibrary_gridFooterRotationOnMouseOver = true,
+	AgLibrary_gridHasFooter = true,
+	AgLibrary_gridHasHeader = true,
+	AgLibrary_gridSection1_Expanded = true,
+	AgLibrary_gridSection2_Expanded = true,
+	AgLibrary_gridSection3_Expanded = true,
+	AgLibrary_gridSection4_Expanded = true,
+	AgLibrary_gridSection5_Expanded = true,
+	AgLibrary_gridSection6_Expanded = true,
+	AgLibrary_gridTools20 = "tools = {\
+	group = true,\
+	image_size = true,\
+	painter = true,\
+	sort = true,\
+}\
+",
+	AgLibrary_histogramPanel_ExpansionState = 1,
+	AgLibrary_images_target = "selectedPhotos",
+	AgLibrary_includeChildTags = true,
+	AgLibrary_infoPanel_Collapsed = false,
+	AgLibrary_infoPanel_ExpansionState = 0,
+	AgLibrary_keywordDisplay = "DisplayKeywordTags",
+	AgLibrary_keywordsPanel_Collapsed = true,
+	AgLibrary_keywordsPanel_ExpansionState = 0,
+	AgLibrary_keywords_shortcut1title = "Kallmünz",
+	AgLibrary_keywords_shortcut2title = "Treppe",
+	AgLibrary_keywords_shortcut3title = "Naab",
+	AgLibrary_keywords_shortcut4title = "Münchshofener Berg",
+	AgLibrary_keywords_shortcut5title = "Sonnenaufgang",
+	AgLibrary_keywords_shortcut6title = "Baum",
+	AgLibrary_keywords_shortcut7title = "Garten",
+	AgLibrary_keywords_shortcut8title = "Wiesent",
+	AgLibrary_keywords_shortcut9title = "Nepal-Pavillion",
+	AgLibrary_keywords_useSpaceForSeparator = false,
+	["AgLibrary_lastBackupDate8CAB8992-F41A-4E2C-B2A6-9B0356401534"] = 360870440.88982,
+	["AgLibrary_lastBackupDate985A68D4-ED0A-43DF-9E72-48A938E93E66"] = 383919123.91669,
+	["AgLibrary_lastBackupDateEA2068F4-55A5-45FF-81A4-A0152D783269"] = 425408459.32937,
+	AgLibrary_leftPanels_inSoloMode = false,
+	AgLibrary_libraryPanel_Collapsed = false,
+	AgLibrary_link2up = true,
+	AgLibrary_lockFilterState = false,
+	AgLibrary_loupeInfo1Text1_v4 = "com.adobe.filenameAndCopyname",
+	AgLibrary_loupeInfo1Text2 = "com.adobe.captureDateTime",
+	AgLibrary_loupeInfo1Text3 = "com.adobe.imageCroppedDimensions",
+	AgLibrary_loupeInfo2Text1_v4 = "com.adobe.filenameAndCopyname",
+	AgLibrary_loupeInfo2Text2 = "com.adobe.exposureAndISO",
+	AgLibrary_loupeInfo2Text3 = "com.adobe.lensSetting",
+	AgLibrary_loupeInfoShowing = false,
+	AgLibrary_loupeInfoStyle = "info2",
+	AgLibrary_loupeTools20 = "tools = {\
+	pick = true,\
+	rating = true,\
+	rotate = true,\
+}\
+",
+	AgLibrary_loupeZoomInLevel = 1,
+	AgLibrary_loupeZoomLevel = "fitToView",
+	AgLibrary_loupeZoomOutLevel = "fitToView",
+	AgLibrary_loupe_target = "activePhoto",
+	AgLibrary_metadataDisplaySet = "com.adobe.tagsets.default",
+	AgLibrary_metadataPanel_Collapsed = false,
+	AgLibrary_metadataPanel_ExpansionState = 0,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_basic = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_exif = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptcEx_admin = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptcEx_artwork = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptcEx_description = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptcEx_models = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptcEx_rights = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptc_content = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptc_copyright = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptc_creator = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptc_image = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_iptc_status = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_keywords = true,
+	AgLibrary_metadataPresets_expand_com_adobe_formatterCategories_video = true,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_basic = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_exif = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptcEx_admin = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptcEx_artwork = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptcEx_description = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptcEx_models = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptcEx_rights = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptc_content = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptc_copyright = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptc_creator = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptc_image = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_iptc_status = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_keywords = 1,
+	AgLibrary_metadataPresets_expandedAmount_com_adobe_formatterCategories_video = 1,
+	AgLibrary_navigatorPanel_ExpansionState = 1,
+	AgLibrary_notActive_target = "activePhoto",
+	AgLibrary_paintingEnabled = false,
+	AgLibrary_paintingToolWhichType = "keywords",
+	AgLibrary_paintingTool_flagValue = 1,
+	AgLibrary_paintingTool_labelValue = "",
+	AgLibrary_paintingTool_metadataValue = "F357ED8A-9496-4FAD-A0F5-6CB03B99F40E",
+	AgLibrary_paintingTool_ratingEverSet = true,
+	AgLibrary_paintingTool_ratingValue = 5,
+	AgLibrary_paintingTool_rotationValue = "cw",
+	AgLibrary_publishServicesPanel_Collapsed = false,
+	AgLibrary_rightPanels_inSoloMode = false,
+	AgLibrary_rootFolderDisplay = "folderNameOnly",
+	AgLibrary_showAdornmentBadges = true,
+	AgLibrary_showAdornmentCommandButtons = true,
+	AgLibrary_showAdornmentIndex = true,
+	AgLibrary_showAdornmentPickFlag = true,
+	AgLibrary_showAdornmentQuickCollection = true,
+	AgLibrary_showAdornmentUnsavedMetadata11 = false,
+	AgLibrary_showAdornments = true,
+	AgLibrary_showClickAdornmentsOnMouseOverOnly = true,
+	AgLibrary_showCompactBottomLabel = true,
+	AgLibrary_showCompactTopLabel = false,
+	AgLibrary_showCompareExtras = true,
+	AgLibrary_showGridTooltips = true,
+	AgLibrary_showLoupeInfo = false,
+	AgLibrary_showLoupeWorkingOverlay = true,
+	AgLibrary_sourceSpecificFilters = false,
+	AgLibrary_surveyTools20 = "tools = {\
+	label = true,\
+	navigate = true,\
+}\
+",
+	AgLibrary_survey_target = "activePhoto",
+	AgLibrary_targetPhotoMetadataOnly = false,
+	AgLibrary_thumbSize = 90,
+	AgLibrary_tintGridWithColors = true,
+	AgLibrary_toolbar_revealedState = "normal",
+	AgLibrary_volumeBrowserInfo = "capacity",
+	AgLibrary_volumeBrowserStatusColors = "t = {\
+	online = AgColor( 0.3, 0.68, 0.3, 1 ),\
+}\
+",
+	AgLibrary_volumeBrowserStatusLight = "freeSpace",
+	AgLibrary_whichView = "loupe",
+	AgLightsOut_overrideColor = false,
+	AgLocation_collectionsPanel_Collapsed = false,
+	AgLocation_enableReverseGeocoding = true,
+	AgLocation_exportReverseGeocoding = true,
+	AgLocation_leftPanels_inSoloMode = false,
+	AgLocation_locationPresetsPanel_Collapsed = false,
+	AgLocation_metadataDisplaySet = "com.adobe.tagsets.location",
+	AgLocation_metadataPanel_Collapsed = false,
+	AgLocation_navigatorPanel_ExpansionState = 1,
+	AgLocation_rightPanels_inSoloMode = false,
+	AgLocation_target = "activePhoto",
+	AgMRUPopupList_AgExport_destinationFolderPathPrefix = "s = {\
+	\"E:\\\\Lightroom-Exporte\",\
+}\
+",
+	AgMRUPopupList_AgImportDialog_destinationFolderPath = "s = {\
+	\"E:\\\\Data\\\\LightroomKataloge\\\\Default\",\
+	\"E:\\\\Data\\\\LightroomKataloge\\\\Anita\",\
+}\
+",
+	AgMRUPopupList_AgImportDialog_namingTokens = "s = {\
+	\"Johannisfeuer\",\
+	\"Taubenwiesbachtal\",\
+	\"Tabuenw\",\
+	\"Tabuen\",\
+	\"Taufe_Fabian\",\
+	\"Kulzer Moos\",\
+	\"Mamas60er\",\
+	\"Schnecke\",\
+	\"HotSauce\",\
+	\"Neunburg_Stadtpark\",\
+	\"Neunburg\",\
+	\"Anita_Prag\",\
+	\"Prag2014\",\
+	\"RitaBindl_50_Geburtstag\",\
+	\"NeunburgAnita\",\
+	\"Anita Passfoto\",\
+	\"SchwrzachtalPass_BrennerFototage\",\
+	\"SchwrzachtalPass\",\
+	\"Wien2013\",\
+	\"ADAC Kart Masters 2013\",\
+}\
+",
+	["AgMRUPopupList_Beschreibung der Sammlung"] = "s = {\
+	\"Web-Fotogalerie erstellt mit Adobe Lightroom.\",\
+}\
+",
+	AgMRUPopupList_Kontaktdaten = "s = {\
+	\"Kontaktname\",\
+}\
+",
+	["AgMRUPopupList_Titel der Sammlung"] = "s = {\
+	\"Eigene Fotografien\",\
+}\
+",
+	["AgMRUPopupList_Titel der Website"] = "s = {\
+	\"Titel der Website\",\
+}\
+",
+	["AgMRUPopupList_Web- oder E-Mail-Link"] = "s = {\
+	\"index.html\",\
+	\"mailto:benutzer@domaene\",\
+}\
+",
+	AgMRUPopupList_importBackupDownloadFolder = "s = {\
+	\"C:\\\\Users\\\\michael\\\\Pictures\\\\Lightroom\\\\Download-Backups\",\
+}\
+",
+	AgMainFramePlacement_maxPosition_x = -1,
+	AgMainFramePlacement_maxPosition_y = -1,
+	AgMainFramePlacement_minPosition_x = -32109,
+	AgMainFramePlacement_minPosition_y = -32000,
+	AgMainFramePlacement_normalPosition_bottom = 1020,
+	AgMainFramePlacement_normalPosition_left = 188,
+	AgMainFramePlacement_normalPosition_right = 1939,
+	AgMainFramePlacement_normalPosition_top = 0,
+	AgMainFramePlacement_showCmd = 2,
+	AgMainFrame_screenMode = 0,
+	AgManyErrorsDialog_frame = AgRect( 620, 411, 1526, 733 ),
+	AgManyErrorsDialog_frame_showCmd = 1,
+	AgMetadata_PresetsCreateFrame = AgRect( 677, 224, 1352, 856 ),
+	AgMetadata_PresetsCreateFrame_showCmd = 1,
+	AgMetadata_autoWriteXmp = false,
+	AgMetadata_enableMRULists = true,
+	AgMetadata_writeDatesToRaw = false,
+	AgMetadata_writeOutputReferredDevelopSettingsToXmp = true,
+	AgMultiMonitor_autoResize = false,
+	AgMultiMonitor_backgroundTexture = "pinstripes",
+	AgMultiMonitor_blankBackgroundColor = 0,
+	AgMultiMonitor_browserHeight = 170,
+	AgMultiMonitor_enablePlopupPreview = false,
+	AgMultiMonitor_filterBarVisible = true,
+	AgMultiMonitor_link2up = true,
+	AgMultiMonitor_loupeMode = "normal",
+	AgMultiMonitor_overrideSettings = true,
+	AgMultiMonitor_previewSize = 300,
+	AgMultiMonitor_previewVisible = false,
+	AgMultiMonitor_slideshowEnding = false,
+	AgMultiMonitor_slideshowIntro = false,
+	AgMultiMonitor_slideshowPauseOnIntro = false,
+	AgMultiMonitor_slideshowRepeat = false,
+	AgMultiMonitor_thumbSize = 120,
+	AgMultiMonitor_viewMode = "loupe",
+	AgMultiMonitor_visible = false,
+	AgMultiMonitor_windowFilterBarVisible = false,
+	AgMultiMonitor_windowVisible = false,
+	AgNavigator_extraZoomLevel = 3,
+	AgNavigator_showPhotosOnMouseOver = true,
+	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.library.collection"] = false,
+	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.library.smart_collection"] = false,
+	["AgNewCreationsDialog_AgNewCreationsDialog_makeVirtualCopiesForModule_com.adobe.ag.print"] = false,
+	["AgNewCreationsDialog_includeOnlyReferencedPhotosForModule_com.adobe.ag.print"] = true,
+	AgNewCreationsDialog_includeSelectedPhotosInCollection = true,
+	["AgNewCreationsDialog_includeSelectedPhotosInCollectionForModule_com.adobe.ag.library.collection"] = true,
+	["AgNewCreationsDialog_includeSelectedPhotosInCollectionForModule_com.adobe.ag.library.smart_collection"] = true,
+	AgNewCreationsDialog_makeVirtualCopies = false,
+	AgPanel_activeSoloMode = false,
+	AgPanel_automaticFontSize = true,
+	AgPanel_baseFontSize = "medium",
+	AgPanel_defaultSoloMode = false,
+	AgPluginManager_addPluginDir = "C:\\Users\\michael\\Dropbox\\LightroomPlugins",
+	AgPluginManager_dialogFrame = AgRect( 509, 279, 1519, 802 ),
+	AgPluginManager_dialogFrame_showCmd = 1,
+	["AgPluginManager_info_regex_lightroom_export_collection-publisher_section_1_Collapsed"] = false,
+	AgPluginManager_pluginDiagnosticsSection_Collapsed = true,
+	AgPluginManager_pluginDiagnosticsSection_ExpansionState = 0,
+	AgPluginManager_pluginStatusSection_Collapsed = false,
+	AgPluginManager_selectedPluginPath = "C:\\Users\\michael\\Dropbox\\LightroomPlugins\\collection-publisher-jfriedl.lrplugin",
+	AgPreviewBuilder_jpegQuality = 0.75,
+	AgPreviewBuilder_standardSize = 1440,
+	AgPreviewCache_discardAfter = "thirty_days",
+	AgPrint_collectionsPanel_Collapsed = false,
+	AgPrint_engineChooser_Collapsed = false,
+	AgPrint_leftPanels_inSoloMode = false,
+	AgPrint_panel1_Collapsed = false,
+	AgPrint_panel1_Enabled = true,
+	["AgPrint_panel1_Enabled_com.adobe.lightroom.print.engine.package.custom"] = true,
+	AgPrint_panel2_Collapsed = false,
+	AgPrint_panel2_Enabled = true,
+	["AgPrint_panel2_Enabled_com.adobe.lightroom.print.engine.package.custom"] = true,
+	AgPrint_panel3_Collapsed = false,
+	AgPrint_panel3_Enabled = true,
+	["AgPrint_panel3_Enabled_com.adobe.lightroom.print.engine.package.custom"] = true,
+	AgPrint_panel4_Collapsed = false,
+	AgPrint_panel4_Enabled = true,
+	["AgPrint_panel4_Enabled_com.adobe.lightroom.print.engine.package.custom"] = true,
+	AgPrint_previewPanel_ExpansionState = 1,
+	AgPrint_printJobSettings_Collapsed = false,
+	AgPrint_rightPanels_inSoloMode = false,
+	AgPrint_showCreationHeader = true,
+	AgPrint_templatesPanel_Collapsed = false,
+	AgPrint_templatesPanel_Enabled = true,
+	AgPrint_toolbar_revealedState = "normal",
+	AgProgressView_visible = false,
+	AgPublish_DNG_compatibility = 117506048,
+	AgPublish_DNG_compressed = true,
+	AgPublish_DNG_conversionMethod = "preserveRAW",
+	AgPublish_DNG_embedCache = true,
+	AgPublish_DNG_embedRAW = false,
+	AgPublish_DNG_lossyCompression = false,
+	AgPublish_DNG_previewSize = "medium",
+	AgPublish_collisionHandling = "ask",
+	AgPublish_embeddedMetadataOption = "all",
+	AgPublish_exportServiceProvider = "com.adobe.ag.export.file",
+	AgPublish_export_bitDepth = 16,
+	AgPublish_export_colorSpace = "sRGB",
+	AgPublish_export_destinationPathSuffix = "Unbenannter Export",
+	AgPublish_export_destinationType = "desktop",
+	AgPublish_export_useSubfolder = true,
+	AgPublish_export_videoFileHandling = "include",
+	AgPublish_export_videoFormat = "4e49434b-4832-3634-fbfb-fbfbfbfbfbfb",
+	AgPublish_export_videoPreset = "original",
+	AgPublish_extensionCase = "lowercase",
+	AgPublish_format = "JPEG",
+	AgPublish_includeVideoFiles = true,
+	AgPublish_initialSequenceNumber = 1,
+	AgPublish_jpeg_limitSize = 100,
+	AgPublish_jpeg_quality = 0.6,
+	AgPublish_jpeg_useLimitSize = false,
+	AgPublish_metadata_keywordOptions = "flat",
+	AgPublish_minimizeEmbeddedMetadata = false,
+	AgPublish_outputSharpeningLevel = 2,
+	AgPublish_outputSharpeningMedia = "screen",
+	AgPublish_outputSharpeningOn = false,
+	AgPublish_png_interlaced = false,
+	AgPublish_reimportExportedPhoto = false,
+	AgPublish_reimport_stackWithOriginal = true,
+	AgPublish_reimport_stackWithOriginal_position = "below",
+	AgPublish_removeLocationMetadata = true,
+	AgPublish_renamingTokensOn = false,
+	AgPublish_selectedTextFontFamily = "Myriad Web Pro",
+	AgPublish_selectedTextFontSize = 12,
+	AgPublish_size_doConstrain = false,
+	AgPublish_size_doNotEnlarge = false,
+	AgPublish_size_maxHeight = 1000,
+	AgPublish_size_maxWidth = 1000,
+	AgPublish_size_megapixels = 5,
+	AgPublish_size_resizeType = "wh",
+	AgPublish_size_resolution = 240,
+	AgPublish_size_resolutionUnits = "inch",
+	AgPublish_size_units = "pixels",
+	AgPublish_size_userWantsConstrain = false,
+	AgPublish_tiff_compressionMethod = "compressionMethod_None",
+	AgPublish_tokenCustomString = "",
+	AgPublish_tokensArchivedToString2 = "{{image_name}}",
+	AgPublish_useWatermark = false,
+	AgPublish_watermarking_id = "<simpleCopyrightWatermark>",
+	AgSdkPluginLoader_disabledPluginIDs = "t = {\
+}\
+",
+	AgSdkPluginLoader_disabledPluginPaths = "t = {\
+}\
+",
+	AgSdkPluginLoader_installedPluginPaths = "t = {\
+	[\"C:\\\\Users\\\\michael\\\\Dropbox\\\\LightroomPlugins\\\\collection-publisher-jfriedl.lrplugin\"] = true,\
+}\
+",
+	AgSlideshow_leftPanels_inSoloMode = false,
+	AgSlideshow_preparePreviews = true,
+	AgSlideshow_rightPanels_inSoloMode = false,
+	AgSlideshow_showGuides = true,
+	AgSlideshow_whichView = "images",
+	AgSoftProofPreview_destinationGamutWarning = false,
+	AgSoftProofPreview_destinationProfile = "AdobeRGB",
+	AgSoftProofPreview_displayGamutWarning = false,
+	AgSoftProofPreview_renderingIntent = "Perceptual",
+	AgSoftProofPreview_simulatePaperAndInk = true,
+	AgTemplateBrowserDataModel_copied_Develop = "s = {\
+}\
+",
+	AgTemplateBrowserDataModel_copied_Export = "s = {\
+	[\"Burn Full-Sized JPEGs\"] = true,\
+	[\"Export to DNG\"] = true,\
+	[\"For E-Mail\"] = true,\
+	[\"For E-Mail (Hard Drive)\"] = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_ExternalEditor = "s = {\
+}\
+",
+	AgTemplateBrowserDataModel_copied_FTP = "s = {\
+}\
+",
+	AgTemplateBrowserDataModel_copied_KeywordSet = "s = {\
+	[\"Outdoor Photography\"] = true,\
+	[\"Portrait Photography\"] = true,\
+	[\"Wedding Photography\"] = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_LabelSet = "s = {\
+	[\"Bridge Default\"] = true,\
+	Default = true,\
+	[\"Review Status\"] = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_LibraryFilter = "s = {\
+	[\"Camera Info\"] = true,\
+	[\"Default Columns\"] = true,\
+	[\"Exposure Info\"] = true,\
+	[\"Filters Off\"] = true,\
+	Flagged = true,\
+	[\"Location Columns\"] = true,\
+	Rated = true,\
+	Unrated = true,\
+	Unused = true,\
+	Used = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_LocalizedAdjustmentPreset = "s = {\
+	[\"Burn (Darken)\"] = true,\
+	[\"Dodge (Lighten)\"] = true,\
+	[\"Iris Enhance\"] = true,\
+	[\"Soften Skin\"] = true,\
+	[\"Teeth Whitening\"] = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_Metadata = "s = {\
+}\
+",
+	AgTemplateBrowserDataModel_copied_Metadata_Tokens = "s = {\
+	Caption = true,\
+	CustomText = true,\
+	Date = true,\
+	Equipment = true,\
+	Exposure = true,\
+	Filename = true,\
+	Sequence = true,\
+	Title = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_Naming_Tokens = "s = {\
+	CustomName = true,\
+	CustomNameOriginalFileNumber = true,\
+	CustomNameSequence = true,\
+	CustomNameXofY = true,\
+	DateFilename = true,\
+	Filename = true,\
+	FilenameSequence = true,\
+	SessionNameSequence = true,\
+	[\"ShootName-OriginalFileNumber\"] = true,\
+	ShootNameSequence2 = true,\
+}\
+",
+	AgTemplateBrowserDataModel_copied_WatermarkingPreset = "s = {\
+}\
+",
+	AgTemplateBrowser_storePresetsWithCatalog = false,
+	AgTemplatePopupController_presetsEditorFrame = AgRect( 814, 492, 1215, 589 ),
+	AgTemplatePopupController_presetsEditorFrame_showCmd = 1,
+	AgTokenPresets_default_AgExport = "t = {\
+	\"image_folder\",\
+	\"image_originalName\",\
+	\"naming_sequenceNumber_4Digits\",\
+	\"date_YYYY\",\
+	\"com.adobe.keywords\",\
+	\"com.adobe.imageFileDimensions\",\
+	\"custom_token\",\
+}\
+",
+	AgTokenPresets_default_AgRename = "t = {\
+	\"image_name\",\
+	\"image_originalName\",\
+	\"naming_sequenceNumber_1Digit\",\
+	\"date_YYYY\",\
+	\"com.adobe.title\",\
+	\"com.adobe.imageFileDimensions\",\
+	\"custom_token\",\
+}\
+",
+	AgVanityPlates_panelTerminator = "_default",
+	AgVideoExportPreset_definitions = "AgVideoExportPreset_definitions = {\
+	[\"3f3f3f3f-4450-5820-fbfb-fbfbfbfbfbfb\"] = {\
+		exportToFolder = true,\
+		ext = \"dpx\",\
+		formatGUID = \"3f3f3f3f-4450-5820-fbfb-fbfbfbfbfbfb\",\
+		formatTitle = \"DPX\",\
+		items = {\
+			{\
+				displayName = \"24p vollständiger Bereich\",\
+				guidance = \"1920 x 1080 24p vollständiger Bereich (max. Bittiefe).\",\
+				presetPath = \"1920 x 1080 24p Full Range (max bit depth).epr\",\
+				targetInfo = \"1920 x 1080, 24p\",\
+			},\
+			{\
+				displayName = \"25p vollständiger Bereich\",\
+				guidance = \"1920 x 1080 25p vollständiger Bereich (max. Bittiefe).\",\
+				presetPath = \"1920 x 1080 25p Full Range (max bit depth).epr\",\
+				targetInfo = \"1920 x 1080, 25p\",\
+			},\
+			{\
+				displayName = \"30p vollständiger Bereich\",\
+				guidance = \"1920 x 1080 30p vollständiger Bereich (max. Bittiefe).\",\
+				presetPath = \"1920 x 1080 30p Full Range (max bit depth).epr\",\
+				targetInfo = \"1920 x 1080, 30p\",\
+			},\
+		},\
+		plugInsContributing = {\
+		},\
+	},\
+	[\"4e49434b-4832-3634-fbfb-fbfbfbfbfbfb\"] = {\
+		ext = \"mp4\",\
+		formatGUID = \"4e49434b-4832-3634-fbfb-fbfbfbfbfbfb\",\
+		formatTitle = \"H.264\",\
+		items = {\
+			{\
+				displayName = \"Max\",\
+				guidance = \"So nah wie möglich an Quelle.\",\
+				size = \"max\",\
+			},\
+			{\
+				displayName = \"Hoch\",\
+				guidance = \"Hohe Qualität, jedoch mit einer möglichen Verringerung der Video-Bitrate.\",\
+				size = \"high\",\
+			},\
+			{\
+				displayName = \"Mittel\",\
+				guidance = \"Geeignet für das Web und High-End-Tablets.\",\
+				size = \"medium\",\
+			},\
+			{\
+				displayName = \"Niedrig\",\
+				guidance = \"Geeignet für mobile Geräte.\",\
+				size = \"low\",\
+			},\
+		},\
+		plugInsContributing = {\
+		},\
+	},\
+}\
+",
+	AgWPG_ImageSettingsPanel_Collapsed = false,
+	AgWPG_OutputPanel_Collapsed = false,
+	AgWPG_TemplatePreviewPanel_ExpansionState = 1,
+	AgWPG_collectionsPanel_Collapsed = false,
+	AgWPG_customSettingsPanel_appearanceConfiguration_Collapsed = false,
+	AgWPG_customSettingsPanel_colorPalette_Collapsed = false,
+	AgWPG_customSettingsPanel_labels_Collapsed = false,
+	AgWPG_customSettingsPanel_outputSettings_Collapsed = false,
+	AgWPG_galleryPanel_Collapsed = false,
+	AgWPG_leftPanels_inSoloMode = false,
+	AgWPG_rightPanels_inSoloMode = false,
+	AgWPG_temp_target = "allAvailablePhotos",
+	AgWPG_templateBrowserPanel_Collapsed = false,
+	AgWeb_showCreationHeader = true,
+	AgWeb_toolbar_revealedState = "normal",
+	DevelopLocalized_preset_gradient_ExpansionState = 1,
+	DevelopLocalized_preset_paint_ExpansionState = 1,
+	DevelopPanels_firstPanelShowing = true,
+	DevelopPanels_firstPanelSize = 311,
+	DevelopPanels_lastPanelShowing = true,
+	DevelopPanels_lastPanelSize = 311,
+	Develop_defaultTemplateId = "725C78C1-5321-4389-8341-7BB8F15AAC95",
+	Develop_detailLoupeZoomInLevel = 1,
+	Develop_localizedColorPresets = "t = {\
+	color1 = AgColor( 0, 0.125, 0.75, 1 ),\
+	color2 = AgColor( 0.375, 0.4375, 0.75, 1 ),\
+	color3 = AgColor( 0.75, 0.71875, 0.5625, 1 ),\
+	color4 = AgColor( 0.75, 0.6875, 0.375, 1 ),\
+	color5 = AgColor( 0.75, 0.625, 0, 1 ),\
+}\
+",
+	Develop_localizedTintPreset1Hue = 0,
+	Develop_localizedTintPreset1Saturation = 0,
+	Export_lastFolderUsedForNewItems = "JPG",
+	Filmstrip_showAdornments = true,
+	Filmstrip_showBadges = true,
+	Filmstrip_showStackCounts = true,
+	Filmstrip_showTooltips = true,
+	ImportLoupe_backgroundShade = 0.25,
+	LayoutBook_leftPanels_inSoloMode = false,
+	LayoutBook_rightPanels_inSoloMode = false,
+	LayoutSlideshow_leftPanels_inSoloMode = false,
+	LayoutSlideshow_rightPanels_inSoloMode = false,
+	LibraryPanels_firstPanelShowing = true,
+	LibraryPanels_firstPanelSize = 311,
+	LibraryPanels_lastPanelShowing = true,
+	LibraryPanels_lastPanelSize = 400,
+	LocationModule_daily_geocode_requests = 0,
+	LocationModule_enableReverseGeocoding = true,
+	LocationModule_mapLatitude = 49.463916666667,
+	LocationModule_mapLongitude = 12.468366666667,
+	LocationModule_mapMode = "google.maps.MapTypeId.HYBRID",
+	LocationModule_mapRadius = 0.073368209704994,
+	LocationModule_mapZoom = 19,
+	LocationModule_showFilterBar = true,
+	LocationModule_showInfoOverlay = true,
+	LocationModule_toolbar_revealedState = "normal",
+	LocationModule_tools = "tools = {\
+	lock = true,\
+	mode = true,\
+	reverse_geocoding = true,\
+	tracklog = true,\
+	zoom = true,\
+}\
+",
+	LocationPanels_firstPanelShowing = true,
+	LocationPanels_firstPanelSize = 311,
+	LocationPanels_lastPanelShowing = true,
+	LocationPanels_lastPanelSize = 311,
+	Location_cityFieldEnabled = true,
+	Location_countryFieldEnabled = true,
+	Location_gpsFieldEnabled = true,
+	Location_stateFieldEnabled = true,
+	Location_sublocationFieldEnabled = true,
+	MultiMonitorPanels_firstPanelShowing = true,
+	MultiMonitorPanels_lastPanelShowing = true,
+	MultiMonitorPanels_syncPanels = true,
+	PrintModule_showPrintInfo = true,
+	PrintPanels_firstPanelShowing = true,
+	PrintPanels_firstPanelSize = 311,
+	PrintPanels_lastPanelShowing = true,
+	PrintPanels_lastPanelSize = 311,
+	Print_target = "selectedPhotos",
+	UseDefaultAntiAliasing = false,
+	VersionManagerCheckDate = 387207172.26776,
+	VersionManagerFailedCheckInterval = 57600,
+	VideoCacheShouldLimitSize = true,
+	VideoCacheSizeLimit = 3,
+	VideoExport_downloadQuicktime = "skip",
+	VideoPlayer_downloadQuicktime = "skip",
+	WPGPanels_firstPanelShowing = true,
+	WPGPanels_firstPanelSize = 311,
+	WPGPanels_lastPanelShowing = true,
+	WPGPanels_lastPanelSize = 311,
+	Web_includeWhichPhotos = "selectedPhotos",
+	ZoomPictureView_enableFling = false,
+	ZoomPictureView_moveZoomPointToCenter = false,
+	animationSpeed = 1,
+	attachment_quality = "medium",
+	cacheSizeTradeoff = 1,
+	catalogExport_initialDir = "E:\\tmp\\Backupkatalog",
+	catalogInfo2 = AgRect( 675, 335, 1353, 724 ),
+	catalogInfo2_showCmd = 1,
+	catalogInfoWindow_currentTab = 1,
+	collectionPanelSortOrder = "kind",
+	["com.adobe.ag.develop_Showed_Walkthroughs"] = true,
+	["com.adobe.ag.library_Showed_Walkthroughs"] = true,
+	["com.adobe.ag.location_Showed_Walkthroughs"] = true,
+	["com.adobe.ag.print_Showed_Walkthroughs"] = true,
+	["com.adobe.ag.wpg_Showed_Walkthroughs"] = true,
+	constrainCropsToOrginalAspectRatio = true,
+	coolSliderMouse = false,
+	defaultDevelopSettings = AgRect( 663, 448, 1366, 632 ),
+	defaultDevelopSettings_showCmd = 1,
+	defringeColorLoupeSize = 5,
+	defringeColorShowLoupe = true,
+	defringeColorToolSticky = true,
+	doNotShowPrompts = "VideoExport_downloadQuicktime,VideoPlayer_downloadQuicktime,",
+	doViewResizeAnimation = false,
+	email_bcc = "",
+	email_cc = "",
+	email_from = "client",
+	email_subject = "Marie Bilder",
+	email_to = "birgit.bader@gmx.de",
+	exportFilesCompletionSoundName = "",
+	exportPresets_Enabled = true,
+	externalEditingFormat = "TIFF_LZW_8_sRGB",
+	externalEditingFormat_dpi = 240,
+	firstLaunchHasRun30 = true,
+	importFilesCompletionSoundName = "",
+	include_caption = false,
+	label1 = "Rot",
+	label2 = "Gelb",
+	label3 = "Grün",
+	label4 = "Blau",
+	label5 = "Lila",
+	lastToneCurveChannelSelection = 0,
+	lastUsedEditBehavior = "editBakedCopy",
+	lensCorrectionPanel = "automatic",
+	libraryToLoad20 = "E:\\Data\\LightroomKataloge\\Default\\Default-2.lrcat",
+	memoryCardDetectionAction = "ImportBehavior_DoNothing",
+	["missingcom.adobe.lightroom.export.facebook_Collapsed"] = false,
+	noAutomaticallyCheckUpdates = false,
+	noSplashScreenOnStartup = false,
+	onePixelFudge = true,
+	photoBinSize = 150,
+	photoshopEditingFormat = "TIFF_ZIP_16_ProPhotoRGB",
+	photoshopEditingFormat_dpi = 240,
+	preferences = AgRect( 565, 186, 1463, 895 ),
+	preferences_showCmd = 1,
+	prefsWindow_currentTab = 2,
+	printModule_rulerType = "plastic",
+	printModule_showExtras = true,
+	printModule_showImageDimensions = false,
+	printModule_showPageBleed = true,
+	printModule_showPageGrid = true,
+	printModule_showPageMargins = true,
+	printModule_showRulers = true,
+	printModule_showTemplateBoxes = true,
+	printModule_units = "millimeters",
+	["publish.com.adobe.lightroom.export.facebook.expanded"] = true,
+	["publish.com.adobe.lightroom.export.flickr.expanded"] = false,
+	["publish.info.regex.lightroom.export.collection-publisher.expanded"] = true,
+	["pw_pw_com.adobe.lightroom.export.facebook_com.adobe.lightroom.export.facebook_100002132566510Key"] = "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzh+ld9KLQkiW6rle5Ora7gAAAAAIAAAAcABzAHcAAAAQZgAAAAEAACAAAAA3snmjVE3ew3WyzDfrx9t+MjIbXR5qiNrxPImEZwoSbwAAAAAOgAAAAAIAACAAAAAguJQm8lpIscT7zFVR6iVIzEcwqWS/JoZRs9BmnkIcu9AAAAC7w98/BXgrCDh435XBIHRrHRSwrUIfwdl5sk0AOG0hHotdm1SXJ6LoBn+YzZEW8+49qq+nGIUz6rs+WqwrRVhsJNkRgv/otAL8SEd44rwKfC0Fz5yz1uNrhBKQyEjRbHcvkEtK4TlO6Mfr9LhVwopJkXVwV72hbOp07DYuyufcLNfA9EhY4hQufamF8cUSm8kaijDcm3LYKUFVEBWITVY8Y9bnhc69UvnjMq3aEbJKNo19L9i44sMHJaeaX1rs4l+1BS4IZD4morkCtL4NIWEyQAAAAOti4TEJL7PvJcv8LP9pNeDXhOLIYEd+QJF/FcPAPy0q9quRi5iimXZ3JXxb7gMLwvFL8eA+tw2uBrq6Ch/VYkM=",
+	["pw_pw_com.adobe.lightroom.export.facebook_com.adobe.lightroom.export.facebook_100002132566510UID"] = "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABpvX4j7Y0ESXReMAMBczjwAAAAAIAAAAcABzAHcAAAAQZgAAAAEAACAAAAATAAgTqLwyUXpPUPpGLEt3rqzkjrDY5ENBc0z3uG08DQAAAAAOgAAAAAIAACAAAAA+XB49ah5HV/sSOip5i8KI/ONqy4gGzdLc03MGzULpuxAAAAC7vanfzeM4DVtG9OpIAMaXQAAAAC08iIyLgYRx8ZCksHZMAF/nDk2Go/1hqzAf05/456OV3eyqZQxDDnkDVgZhLBte9AjmLGtXNXysEjzWKxz3r8Q=",
+	["pw_pw_com.adobe.lightroom.export.flickr_com.adobe.lightroom.export.flickr_60977831@N07_oauth_token"] = "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABpvX4j7Y0ESXReMAMBczjwAAAAAIAAAAcABzAHcAAAAQZgAAAAEAACAAAAAaorTgDL5Iv2/WZtPlyj1olOxqwDVuzuCMnOc10T32YgAAAAAOgAAAAAIAACAAAAAeyTyQyxYKRB5vRJ3IE3Y7qQ01VcXrNBJeEhEK9RDsMDAAAADT+1BeGI83ZzmL5YfGC+A/s7cn0ArlMiSd3wxojo4kvlF/JpAyPu1lB1M6+2/S2rhAAAAADOvo7z9GP3nQR/hAD7pfz4E4Q6fYf+64FZT2/TtBYzZveXIz+vjhtkxRG7kKVk0DCw6nl7SNXHcyc271drfLcQ==",
+	["pw_pw_com.adobe.lightroom.export.flickr_com.adobe.lightroom.export.flickr_60977831@N07_oauth_token_secret"] = "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABpvX4j7Y0ESXReMAMBczjwAAAAAIAAAAcABzAHcAAAAQZgAAAAEAACAAAABTQY5DDR1IlutY49IFz7BLkSvMTdbQNMRGjX0FtSWZbgAAAAAOgAAAAAIAACAAAAB/cEDUZws0Mi60Z+VQRwUKFJmDCEl39NmEPptZvfo93CAAAAAvylK8Aw+RuMl9A1QZaMrYVDDGwhzBqCZ5cOeaqZ+QnEAAAADtC2KykUCpXgpRHCD3MR93GhbHaaZRErXGbcyGbEpRFXA/nUd81+8+xZVpETFd62M5TfRo4yvaXHii2tDNP5PM",
+	recentLibraries20 = "recentLibraries = {\
+	\"E:\\\\Data\\\\LightroomKataloge\\\\Default\\\\Default-2.lrcat\",\
+	\"E:\\\\Data\\\\LightroomKataloge\\\\Anita\\\\Anita\\\\Anita-2.lrcat\",\
+	\"C:\\\\Users\\\\michael\\\\Pictures\\\\Lightroom\\\\Lightroom 4 Catalog.lrcat\",\
+}\
+",
+	recentLibraries20_missing = "recentMissingLibraries = {\
+	\"E:\\\\tmp\\\\Backupkatalog\\\\backlup20120612\\\\backlup20120612.lrcat\",\
+}\
+",
+	recentLibraryBehavior20 = "UseMostRecentLibrary",
+	rulerVisible = false,
+	["sdk_com.adobe.export.oz"] = "prefs = {\
+	KillSwitchResponse = {\
+		localOSTime = 1403801228,\
+		locale = \"de_de\",\
+		plugin_version = \"4.4.0.891433\",\
+		status = \"ok\",\
+		timestamp = \"2014-06-26T16:47:35+00:00\",\
+	},\
+}\
+",
+	["sdk_com.adobe.lightroom.export.facebook"] = "prefs = {\
+	FACEBOOK_DISPLAY_NAME = \"Michael Röhrl\",\
+	FACEBOOK_UID = \"100002132566510\",\
+	KillSwitchResponse = {\
+		localOSTime = 1403948513,\
+		locale = \"de_de\",\
+		plugin_version = \"4.4.0.891433\",\
+		status = \"ok\",\
+		timestamp = \"2014-06-28T09:41:52+00:00\",\
+	},\
+	addToPhotoset = false,\
+	defaultAlbum = \"109375922476826\",\
+	fullname = \"\",\
+	hideFromPublic = false,\
+	photoset = \"\",\
+	prevUID = {\
+		[455059] = \"100002132566510\",\
+	},\
+	privacy = \"public\",\
+	privacy_family = false,\
+	privacy_friends = false,\
+	safety = \"safe\",\
+	titleFirstChoice = \"title\",\
+	titleRepublishBehavior = \"replace\",\
+	titleSecondChoice = \"filename\",\
+	type = \"photo\",\
+	username = \"\",\
+}\
+",
+	["sdk_com.adobe.lightroom.export.flickr"] = "prefs = {\
+	KillSwitchResponse = {\
+		localOSTime = 1403948513,\
+		locale = \"de_de\",\
+		plugin_version = \"4.4.0.891433\",\
+		status = \"ok\",\
+		timestamp = \"2014-06-28T09:41:57+00:00\",\
+	},\
+	addToPhotoset = false,\
+	auth_token = \"72157626247415965-9833f7f545fdcc69\",\
+	fullname = \"\",\
+	hideFromPublic = false,\
+	isUserPro = false,\
+	nsid = \"60977831@N07\",\
+	photoset = \"\",\
+	prevUID = {\
+		[455054] = \"60977831@N07\",\
+	},\
+	privacy = \"public\",\
+	privacy_family = false,\
+	privacy_friends = false,\
+	safety = \"safe\",\
+	titleFirstChoice = \"title\",\
+	titleRepublishBehavior = \"replace\",\
+	titleSecondChoice = \"filename\",\
+	type = \"photo\",\
+	username = \"UnaKaroshi\",\
+}\
+",
+	["sdk_com.adobe.lightroom.google-map"] = "prefs = {\
+	KillSwitchResponse = {\
+		localOSTime = 1401719711,\
+		locale = \"de_de\",\
+		status = \"ok\",\
+		timestamp = \"2014-06-02T14:37:19+00:00\",\
+	},\
+}\
+",
+	["sdk_info.regex.lightroom.export.collection-publisher"] = "prefs = {\
+	DO_ENHANCED_RENAMING = false,\
+	DO_SET_DATETIME = false,\
+	ENHANCED_DEBUGGING = false,\
+	ENHANCED_RENAMING_TEMPLATE = \"{FILENAME}\",\
+	EXPORT_GOOD_ENOUGH_WITH_PROXIES = \"ask\",\
+	EXPORT_NOT_GOOD_ENOUGH_WITH_PROXIES = \"ask\",\
+	FVERSION = \"20131102.38\",\
+	FVERSIONDATE = 405280228.05695,\
+	GK3 = \"Wedeomae88fd4f30625d0cb681f6be638189ae\",\
+	INSTALLDATE = 405280228.05695,\
+	INSTALLDATEVERSION = \"20131102.38\",\
+	NEW_VERSION_NUMBER = \"20140613.47\",\
+	OLD_ROOT_FOLDER = \"\",\
+	ON_DELETE_FROM_LIGHTROOM = \"ignore\",\
+	PUBLISH_SERVICE_CREATED_BUILD = 891433,\
+	PluginLoadTime = 425641286.89473,\
+	ROOT_FOLDER = \"Z:\\\\Lightroom Bilder\",\
+	RUID = \"Wedeomae88fd4f30625d0cb681f6be638189ae\",\
+	SET_FILE_TIME_TO_IMAGE_TIME = false,\
+	SMART_PREVIEW_QUALITY_THRESHOLD = 100,\
+	Signaturev3 = \"@@b64@@:VmFsaWRBYmNFeTkuZ1dhRkdvZ2lIRWhtODkxMkhxMjNoVC5fZmE3OGl1aGEwMUlxSmcwMS5fSm9hYUlQMzQzNEFKNTZBY186YW0yMzkuQXU0NUJhalE0NUpvanJhaGFsYVlBWDU2Ll8wMUJHQm5DYUJ2RGwxMjEyZFdESDU2Q05ldjQ1MzQ0NTQ1RnVnR2RwZUdGTmhkaHQ1NjQ1ODlpYklqODlIYzAxXzpJUzM0NzhpbGlWSkRKSjQ1SkNhYzAxODlBd0JFYkJibzkuQnVhRUpHQWhfOjM0QW0xMkF1XzpCREJJNjdicGJWMzRDZUNILl9jdERGQ3EyMzEyZEg5LjQ1RXVGSDc4MTI5LkZQZnIyM2ZIXzplbmhnRlNGWUdkR1FJUGhjSEdIUzM0aHc0NTQ1SWk0NTkuaWo4OTY3aXRiYkpJNjdiTS5fSnU1NjkuQ2M1NmFSYVliRGRFMTJidERRQ2djbGVvY3REZDY3OS4wMTY3XzpmaTc4NzhET2VEMDFEby5fRWYzNF86Xzo5LkZTaGlfOmhkaHMwMTIzXzozNGhzaUszNElaMzRJeGhsLl82N0pkNTZfOkFDNzhfOjg5alFBT2lxOS5JbzQ1SVI0NTU2SmcuXzU2Xzo0NTEyODlqbzAxam01NmFnQWVBTmJhZHlEVWR4ZFcxMjc4ZHkwMWVZMDFlTjAxRmxfOmZtRlBHYmdzR25oRUhoMzQxMmhEMjNIRklL\",\
+	TSTAMP3 = \"692728df2e410f89abb444bd280cc4a2\",\
+	UPDATE_ON_CAPTION = true,\
+	UPDATE_ON_COPYRIGHT = false,\
+	UPDATE_ON_CREATOR = false,\
+	UPDATE_ON_DATE = false,\
+	UPDATE_ON_HEADLINE = false,\
+	UPDATE_ON_INSTRUCTIONS = false,\
+	UPDATE_ON_JOBIDENTIFIER = false,\
+	UPDATE_ON_KEYWORDS = false,\
+	UPDATE_ON_LABEL = false,\
+	UPDATE_ON_LOCATION = false,\
+	UPDATE_ON_PROVIDER = false,\
+	UPDATE_ON_RATING = false,\
+	UPDATE_ON_SOURCE = false,\
+	UPDATE_ON_TITLE = false,\
+	VERSION_CHECK_TIME = 425328630.81465,\
+	WHEN_CREATED = 418832339.85738,\
+}\
+",
+	["sdk_info.regex.lightroom.global"] = "prefs = {}\
+prefs.FTP_REFRESH_CHANGED_DATE = false\
+prefs.FTP_PRESETS = {}\
+prefs.FTP_PRESETS[ 1 ] = {}\
+prefs.FTP_PRESETS[ 1 ].title = \"Benutzerdefinierte Einstellungen\"\
+prefs.FTP_PRESETS[ 1 ].value = {\
+	passive = \"normal\",\
+	password = \"\",\
+	path = \"\",\
+	port = 21,\
+	protocol = \"ftp\",\
+	server = \"\",\
+	storePassword = false,\
+	title = \"Unbenannte FTP\",\
+	username = \"\",\
+}\
+prefs.FTP_PRESETS[ 2 ] = {\
+	separator = true,\
+}\
+prefs.FTP_PRESETS[ 3 ] = {\
+	title = \"Bearbeiten...\",\
+	value = {\
+		kEditPresetValue = 1,\
+	},\
+}\
+prefs.FTP_SEND_NEW = true\
+prefs.FTP_PRESET = prefs.FTP_PRESETS[ 1 ].value\
+prefs.FTP_DELETE_REMOTE = true\
+prefs.FTP_REFRESH_CHANGED_SIZE = true\
+",
+	sdk_sign = "prefs = {\
+	val = \"jk578dfhXVCAG28d34cewx46SU57mlwxxypqzCXVEDNOW\",\
+}\
+",
+	showPublishServiceIcons = true,
+	tokenCustomFieldEnabled = false,
+	tokenPresets = AgRect( 769, 271, 1260, 810 ),
+	tokenPresets_showCmd = 1,
+	tokenSequenceFieldEnabled = false,
+	tokenShootNameFieldEnabled = false,
+	useSpeechRecognition = false,
+	useTestUpdateSite = false,
+	whiteBalanceLoupeSize = 5,
+	whiteBalanceShowLoupe = true,
+	whiteBalanceToolSticky = false,
+	xmpTreatBackSlashAsSeparator = false,
+	xmpTreatDotAsSeparator = false,
+	xmpTreatForwardSlashAsSeparator = false,
+}

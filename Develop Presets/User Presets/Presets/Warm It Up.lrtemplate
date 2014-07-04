@@ -1,0 +1,14 @@
+s = {
+	internalName = "Warm It Up",
+	title = "Warm It Up",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6375,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "A76CC6F6-6B77-44E5-BACB-726EC055D56F",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "05FE524E-5CB2-4217-B927-A6F8145DD233",
+	internalName = "Sharpen > Portraits > Medium",
+	title = "Sharpen > Portraits > Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 91,
+			SharpenEdgeMasking = 84,
+			SharpenRadius = 1.9,
+			Sharpness = 36,
+		},
+		uuid = "27450ABB-8DB9-4A42-A842-50786C471575",
+	},
+	version = 0,
+}

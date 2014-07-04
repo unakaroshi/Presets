@@ -1,0 +1,29 @@
+s = {
+	id = "927A8D3F-5BC0-4AFB-887B-008136136C23",
+	internalName = "Clarity - 1",
+	title = "Clarity - 1",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = 45,
+			ConvertToGrayscale = false,
+			ParametricDarks = -26,
+			ParametricHighlightSplit = 65,
+			ParametricHighlights = -10,
+			ParametricLights = 16,
+			ParametricMidtoneSplit = 34,
+			ParametricShadowSplit = 10,
+			ParametricShadows = -18,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+			Vibrance = 7,
+		},
+		uuid = "D46A3BDB-C2FB-4435-9A65-3D6CF1972B50",
+	},
+	version = 0,
+}
